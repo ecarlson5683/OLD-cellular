@@ -1,0 +1,11 @@
+age,timepoint,variable,n,mean,se
+Adult,T0,mean,6,2.444,0.111
+Adult,T14,mean,7,2.238,0.034
+Adult,T2,mean,5,2.2,0.082
+Adult,T28,mean,8,2.167,0.089
+Adult,T7,mean,5,2.2,0.162
+Aged,T0,mean,8,2.458,0.14
+Aged,T14,mean,10,2.367,0.111
+Aged,T2,mean,7,2.286,0.087
+Aged,T28,mean,5,2.167,0.053
+Aged,T7,mean,8,2.375,0.052

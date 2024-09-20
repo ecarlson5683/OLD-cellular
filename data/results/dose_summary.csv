@@ -1,0 +1,11 @@
+age,timepoint,variable,n,mean,se
+Adult,T0,day_mean,6,7.667,0.333
+Adult,T14,day_mean,7,8.286,0.101
+Adult,T2,day_mean,5,8.4,0.245
+Adult,T28,day_mean,8,8.5,0.267
+Adult,T7,day_mean,5,8.4,0.485
+Aged,T0,day_mean,8,7.625,0.31
+Aged,T14,day_mean,10,7.85,0.334
+Aged,T2,day_mean,7,8.143,0.261
+Aged,T28,day_mean,5,8.5,0.158
+Aged,T7,day_mean,8,7.875,0.157
